@@ -1,1 +1,2 @@
 This is Prasanna Nippani. I am learning ML and trying out new things in ML.
+My primary purpose of this ML course is to learn ML and change career path to become a leader in AI/ML
